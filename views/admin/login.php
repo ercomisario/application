@@ -89,7 +89,7 @@
                                         </div>
 
                                       
-                                        <button type="submit" class="btn" style="background: #222533;"><?php echo $this->lang->line('sign_in'); ?></button>
+                                        <button type="submit" class="btn" style="background: #0630f4;"><?php echo $this->lang->line('sign_in'); ?></button>
                                     </form>
                                     <a href="<?php echo site_url('site/forgotpassword') ?>" class="forgot"><i class="fa fa-key"></i> <?php echo $this->lang->line('forgot_password'); ?></a>
                                 </div>
